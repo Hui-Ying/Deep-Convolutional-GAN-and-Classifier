@@ -34,9 +34,9 @@ The discriminator is trained with real images.
 An input of 1D noise vector as input to the generator, and the generator produces fake images at the output.
 The fake images aan real images are fed into the discriminator and the discriminator starts the process of recognizing real and fake images, and gives a score at the output to indicate how well the generator can produce a real-alike image. 
 The score indicates a feedback to the generator, with this feedback, the generator starts changing its weights and learning how to generate real-alike images.
-The whole process can be found in the figure below[[2]](https://pathmind.com/wiki/generative-adversarial-network-gan). 
+The whole process can be found in the figure below[[2]](https://pathmind.com/wiki/generative-adversarial-network-gan).   
 
-
+![](/images/GAN.png)
 
 
 
