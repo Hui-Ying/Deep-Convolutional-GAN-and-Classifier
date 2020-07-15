@@ -1,6 +1,7 @@
 # Deep-Convolutional-GAN-and-Classifier
 ## Description:
-This is a class project from EEC206 at UC Davis.
+This project was originally a final project from EEC206 in 2020 spring quarter at UC Davis.  
+In order to further improving the results(and for fun), I decided to continue working on this project.
 
 Project goal: Implementation of a specific type of GAN designed to process images, called a Deep Convolutional GAN (DCGAN). The DCGAN was trained to generate natural images from CIFAR10. 
 
