@@ -20,7 +20,7 @@ Project goal: Implementation of a specific type of GAN designed to process image
 - Use the dataset generated from the generator to train the classifier c’
 
 
-- Color map implementation from here
+- Color map implementation
 
 
 ## Brief introduction of GAN:
